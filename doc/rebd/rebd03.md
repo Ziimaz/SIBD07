@@ -143,7 +143,7 @@ Não há alterações
 |-----------|----|------|---|---------|-------------------|
 |_n.id      |nome|morada|nic|telefone*|#_parteDia -> Turno|
 
-|Formacao     |            |    
+|Cliente    |            |    
 |-------------|------------|
 |_tipoFormacao|nomeFormacao|
 
