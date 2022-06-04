@@ -139,7 +139,7 @@ Não há alterações
 ## Relacoes 
 
 
-|Artigo|    |      |   |         |                   |
+|Artigo|    |      |   |         |                   |     |
 |-----------|----|------|---|---------|-------------------|
 |_n.id      |nome|morada|nic|telefone*|#_parteDia -> Turno|
 
